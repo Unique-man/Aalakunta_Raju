@@ -1,6 +1,7 @@
-# Aalakunta_Raju
+
 <h1 align="center">Hi 👋, I'm Raju</h1>
 <h3 align="center">A passionate Python full stack developer from India</h3>
+<img  alt="coding" width="1200px" height="600px" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"
 
 - 🌱 I’m currently learning **Django**
 
